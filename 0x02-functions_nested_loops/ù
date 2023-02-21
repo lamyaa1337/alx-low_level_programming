@@ -1,11 +1,5 @@
+#include "stdio.h"
 #include "main.h"
-
-/**
- * main- print "_putchar" followed by a new line.
- * description: you are not allowed to include standard libraries.
- * return: 0
- */
-
 int main(void)
 { char var[] = "_putchar";
 int i = 0;
